@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=127BE1&width=600&lines=%E2%98%95+Code%2C+Milktea%2C+and+Kanji;%F0%9F%94%A5+Building+high-performance+architectures+%F0%9F%94%A5;%F0%9F%99%86%E2%80%8D%E2%99%82%EF%B8%8F+Aoi+Skywalker+says+hello" alt="Typing SVG" />
+</div>
 
-<!--
-**AoiSkywalker/AoiSkywalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👋 About Me
+- Love knowledge
+- Passionate at coding
+- Be on cloud nine with math
+- Do cybersecurity and machine learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,nodejs,php,c,cpp,docker,git" />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AoiSkywalker/AoiSkywalker/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AoiSkywalker/AoiSkywalker/output/github-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/AoiSkywalker/AoiSkywalker/output/github-snake.svg">
+  </picture>
+</div>
